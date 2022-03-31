@@ -238,6 +238,10 @@ li.sideNavbar {
     width: 40vw;
     /* animation: none; */
   }
+  .lRfdj {
+    margin-left: 92%;
+    bottom: 70px;
+  }
 }
 @media only screen and (max-width: 425px) {
   h2.home__text.pz__10 {

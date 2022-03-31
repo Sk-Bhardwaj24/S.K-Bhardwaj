@@ -13,12 +13,9 @@ function Service() {
       <div className="service component__space" id="Services">
         <div className="heading">
           <h1 className="heading">Skills and Tools</h1>
-          <p className="heading p__color">
+          {/* <p className="heading p__color">
             There are many variations of passages of Lorem Ipsum available,
-          </p>
-          <p className="heading p__color">
-            but the majority have suffered alteration.
-          </p>
+          </p> */}
         </div>
 
         <div className="container">
