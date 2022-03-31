@@ -143,9 +143,9 @@ img.project__img::after {
   display: inline;
   transform: scale(1.1);
 }
-.project__box:hover img.project__img {
+/* .project__box:hover img.project__img {
   transform: scale(1.1);
-}
+} */
 .project__meta.absolute {
   top: 0%;
   left: 0%;
