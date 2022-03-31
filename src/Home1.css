@@ -1,0 +1,31 @@
+.home__bg1 {
+  /* background-image: url(./img/saurabh3.png); */
+  background-repeat: no-repeat;
+  background-position: right;
+  /* border: 10px solid red; */
+}
+.close {
+  position: absolute;
+  top: 0;
+  margin-left: 15rem;
+  font-size: 60px;
+  color: rgb(0, 166, 153);
+  transform: rotate(45deg);
+  cursor: pointer;
+  background: linear-gradient(to right, #f3f714 0%, #c21767 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.close:hover {
+  transform: rotate(-45000deg);
+  transition: transform 15s ease-out;
+}
+@media only screen and (max-width: 768px) {
+  .home__bg1 {
+    background-position: 80% 10vw;
+    background-size: 300px;
+  }
+  /* .home__bg1 img {
+    width: 70px;
+  } */
+}
