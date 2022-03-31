@@ -11,7 +11,8 @@ function Project() {
       <div className="heading">
         <h1 className="heading">My Latest Project</h1>
         <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
+          Right now working on real world Todo-app & hope it will come very
+          soon.
         </p>
         <p className="heading p__color">
           but the majority have suffered alteration.
