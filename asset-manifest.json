@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/S.K-Bhardwaj/static/css/main.b2ac2c34.css",
+    "main.js": "/S.K-Bhardwaj/static/js/main.4154ec24.js",
+    "static/js/787.b9ec5bb0.chunk.js": "/S.K-Bhardwaj/static/js/787.b9ec5bb0.chunk.js",
+    "static/media/developer.gif": "/S.K-Bhardwaj/static/media/developer.bf5ac7c905321603edac.gif",
+    "static/media/portfolio-1.png": "/S.K-Bhardwaj/static/media/portfolio-1.58237409c9b0b13887aa.png",
+    "static/media/saurabh2.png": "/S.K-Bhardwaj/static/media/saurabh2.a1a18ed83e42b684a5aa.png",
+    "static/media/logolatest.png": "/S.K-Bhardwaj/static/media/logolatest.695182398cc733a64a4f.png",
+    "static/media/REACTLOGO.png": "/S.K-Bhardwaj/static/media/REACTLOGO.e3d6e62303b071ff234d.png",
+    "static/media/JSLOGO.png": "/S.K-Bhardwaj/static/media/JSLOGO.370226a8cd3a4708fb93.png",
+    "static/media/REDUXLOG.png": "/S.K-Bhardwaj/static/media/REDUXLOG.1ab87371773cadee1334.png",
+    "static/media/HTMLOGO.png": "/S.K-Bhardwaj/static/media/HTMLOGO.eebf517f7759a2f9294a.png",
+    "static/media/CLOGO.png": "/S.K-Bhardwaj/static/media/CLOGO.5a475cfacb90584c1a6b.png",
+    "static/media/CSSLOGO.png": "/S.K-Bhardwaj/static/media/CSSLOGO.9959aa635761001d6b49.png",
+    "static/media/quater-spin.svg": "/S.K-Bhardwaj/static/media/quater-spin.61acd759e4f6e5dfab55b16bf11c1812.svg",
+    "index.html": "/S.K-Bhardwaj/index.html",
+    "main.b2ac2c34.css.map": "/S.K-Bhardwaj/static/css/main.b2ac2c34.css.map",
+    "main.4154ec24.js.map": "/S.K-Bhardwaj/static/js/main.4154ec24.js.map",
+    "787.b9ec5bb0.chunk.js.map": "/S.K-Bhardwaj/static/js/787.b9ec5bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ac2c34.css",
+    "static/js/main.4154ec24.js"
+  ]
+}
