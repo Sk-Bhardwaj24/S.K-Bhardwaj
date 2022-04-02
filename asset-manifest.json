@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/S.K-Bhardwaj/static/css/main.d37188d5.css",
-    "main.js": "/S.K-Bhardwaj/static/js/main.7ccd12d9.js",
+    "main.js": "/S.K-Bhardwaj/static/js/main.d7069d93.js",
     "static/js/787.7d555818.chunk.js": "/S.K-Bhardwaj/static/js/787.7d555818.chunk.js",
     "static/media/developer.gif": "/S.K-Bhardwaj/static/media/developer.bf5ac7c905321603edac.gif",
     "static/media/portfolio-1.png": "/S.K-Bhardwaj/static/media/portfolio-1.58237409c9b0b13887aa.png",
@@ -16,11 +16,11 @@
     "static/media/quater-spin.svg": "/S.K-Bhardwaj/static/media/quater-spin.61acd759e4f6e5dfab55b16bf11c1812.svg",
     "index.html": "/S.K-Bhardwaj/index.html",
     "main.d37188d5.css.map": "/S.K-Bhardwaj/static/css/main.d37188d5.css.map",
-    "main.7ccd12d9.js.map": "/S.K-Bhardwaj/static/js/main.7ccd12d9.js.map",
+    "main.d7069d93.js.map": "/S.K-Bhardwaj/static/js/main.d7069d93.js.map",
     "787.7d555818.chunk.js.map": "/S.K-Bhardwaj/static/js/787.7d555818.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d37188d5.css",
-    "static/js/main.7ccd12d9.js"
+    "static/js/main.d7069d93.js"
   ]
 }
