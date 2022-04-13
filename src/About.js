@@ -37,13 +37,15 @@ function About() {
                 <a
                   href="https://drive.google.com/file/d/1rveGN7E5PpAMtiKqnQONiOOhAkf_kI_r/view?usp=sharing"
                   download
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <i class="fa fa-download"></i>
-                  <button className="about btn pointer">Download Cv</button>
+                  <button className="about btn pointer">Resume</button>
                 </a>
-                <a href="#Contact">
+                {/* <a href="#Contact">
                   <button className="about btn pointer1">Hire Me</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

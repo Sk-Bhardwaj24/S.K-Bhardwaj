@@ -7,8 +7,10 @@
 .close {
   position: absolute;
   top: 0;
-  margin-left: 15rem;
+  margin-left: 9rem;
+  margin-top: 10px;
   font-size: 60px;
+
   color: rgb(0, 166, 153);
   transform: rotate(45deg);
   cursor: pointer;

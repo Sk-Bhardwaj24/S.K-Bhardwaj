@@ -16,8 +16,12 @@ function Home() {
     header.classList.toggle("active", window.scrollY > 0);
   });
   const handlenavbar = () => {
-    setShow(false);
+    setShow(!show);
   };
+  const handlechange = () => {
+    setTimeout(handlenavbar, 200);
+  };
+
   // Toogle Menu
   const [show, setShow] = useState(false);
   return (
@@ -66,7 +70,7 @@ function Home() {
           {/* Toogle Menu */}
           <div className="toggle__menu">
             <svg
-              onClick={() => setShow(!show)}
+              onClick={handlechange}
               xmlns="http://www.w3.org/2000/svg"
               width="16"
               height="16"
@@ -129,17 +133,33 @@ function Home() {
         </div>
         <div className="lRfdj">
           <div className="bwSYJA">
-            <a href="https://github.com/Sk-Bhardwaj24">
+            <a
+              href="https://github.com/Sk-Bhardwaj24"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               <i class="fab fa-github git"></i>
             </a>
-            <a href="www.linkedin.com/in/saurabh-kumar-bhardwaj">
+            <a
+              href="www.linkedin.com/in/saurabh-kumar-bhardwaj"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i class="fa-brands fa-linkedin git"></i>
             </a>
-            <a href="https://twitter.com/Saurabh64461803">
+            <a
+              href="https://twitter.com/Saurabh64461803"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i class="fa-brands fa-twitter-square git"></i>
             </a>
-            <a href="https://www.instagram.com/s.k_bhardwaj24">
+            <a
+              href="https://www.instagram.com/s.k_bhardwaj24"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i class="fa-brands fa-instagram-square git"></i>
             </a>
           </div>
@@ -172,14 +192,15 @@ function Home() {
                     />
                   </h2>
                 </div>
+                <div>
+                  <img className="him" src={sau} alt="" />
+                </div>
+
                 {/* <h3 className="home__text sweet pz__10">
                   Full Stack Developer.
                 </h3>
                 <h4 className="home__text pz__10">based in India.</h4>
                 <h4 className="home__text pz__10">I build things for web..</h4> */}
-              </div>
-              <div>
-                <img src={sau} alt="" />
               </div>
             </div>
           </div>

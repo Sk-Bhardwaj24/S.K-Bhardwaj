@@ -1,6 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import contactImg from "./img/quater-spin.svg";
+// import PhoneIcon from "@mui/icons-material/Phone";
 function Contact() {
   return (
     <div className="contact component__space" id="Contact">
@@ -8,11 +9,18 @@ function Contact() {
         <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
-              <h1 className="hire__text">Hire Me.</h1>
-              <p className="hire__text white">Connect with me via phone:</p>
+              <h1 className="hire__text">Contact Me.</h1>
+              <p className="hire__text white">Connect with me </p>
               <p className="hire__text white">
-                <strong>+91 8210673961</strong> or email{" "}
-                <strong>me24.saurabhkumar@gmail.com</strong>
+                <i class="fa fa-phone fa-2x" aria-hidden="true"></i>
+
+                <strong>&nbsp;&nbsp; +91 8210673961 </strong>
+              </p>
+              <br />
+              <p className="hire__text white">
+                <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+
+                <strong> &nbsp;&nbsp; me24.saurabhkumar@gmail.com</strong>
               </p>
             </div>
             <div className="input__box">

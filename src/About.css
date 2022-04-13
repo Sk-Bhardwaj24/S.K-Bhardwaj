@@ -1,5 +1,6 @@
 .about {
   background: rgb(35, 41, 70);
+  margin-top: -40vh;
 }
 img.about__img {
   border-radius: 10px;
@@ -58,6 +59,11 @@ a.bottom__to__top.active {
 @media only screen and (max-width: 1024px) {
   .p__color {
     font-size: 15px !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .about {
+    margin-top: -20vh;
   }
 }
 @media only screen and (max-width: 425px) {

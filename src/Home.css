@@ -42,8 +42,11 @@ svg.bi.bi-justify.white.pointer {
   margin-bottom: 10px;
 }
 .kyvWZW {
-  width: 3px;
+  margin-top: 5px;
+  width: 5px;
   height: 40%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
   background-color: rgb(184, 193, 236);
 }
 /* ******************************* */
@@ -75,6 +78,11 @@ svg.bi.bi-justify.white.pointer {
 .logo > img {
   width: 60px;
   height: 60px;
+  position: sticky;
+  margin-top: 5px;
+  /* top: 15px; */
+  z-index: 10000;
+  margin-left: -20px;
   animation: rotation 2s infinite linear;
 }
 .navbar > a:hover {
@@ -111,7 +119,7 @@ li.nav__items {
   transition: color 0.4s ease-in-out;
 }
 .home__content {
-  padding: 125px 0px;
+  padding: 125px 0px 10px 0px;
 }
 h1.home__text {
   font-size: 18px;
@@ -162,12 +170,15 @@ ul.sidebar.d__flex {
   height: 100%;
   position: fixed;
   right: 0%;
+  padding-top: 40px;
   z-index: 1000 !important;
   background: rgb(23, 32, 52);
   /* background: rgb(38, 72, 102); */
   /* justify-content: center; */
-  width: 300px;
+  width: 200px;
   top: 0%;
+  line-height: 30px;
+  list-style: none;
   flex-direction: column;
   padding-top: -100px;
   /* align-items: center; */
@@ -183,7 +194,7 @@ li.sideNavbar {
   padding: 25px 30px;
 }
 .mm {
-  display: flex !important;
+  /* display: flex !important; */
   flex-direction: row !important;
   justify-content: space-between;
 }
@@ -205,14 +216,14 @@ li.sideNavbar {
   flex-wrap: nowrap !important;
 }
 
-.mm > div:nth-child(2) > img {
+.him {
   border-bottom: 0.7vw solid rgb(255, 133, 6);
   border-radius: 50%;
   padding: 0px !important;
   width: 30vw;
   position: relative;
-  top: -10rem;
-  /* margin-left: 40px; */
+  top: -70vh;
+  margin-left: 70%;
 }
 /* RESPONSIVE */
 @media only screen and (max-width: 768px) {
@@ -241,6 +252,15 @@ li.sideNavbar {
   .lRfdj {
     margin-left: 92%;
     bottom: 70px;
+  }
+  .mm > div:nth-child(2) > img {
+    border-bottom: 0.7vw solid rgb(255, 133, 6);
+    border-radius: 50%;
+    padding: 0px !important;
+    width: 30vw;
+    position: relative;
+    top: -70vh;
+    margin-left: 70%;
   }
 }
 @media only screen and (max-width: 425px) {
