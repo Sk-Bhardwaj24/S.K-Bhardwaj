@@ -180,7 +180,7 @@ function Home() {
                     {" "}
                     <Typed
                       strings={[
-                        "I'm Full Stack Developer",
+                        "I'm a Full Stack Developer",
                         "based in India.",
                         "I build things for web...",
                       ]}
