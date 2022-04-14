@@ -96,8 +96,9 @@
   font-size: 4vw;
 }
 .pcol4 > p:nth-of-type(1) {
-  font-size: 21px;
-  font-style: italic;
+  font-size: 16px;
+  /* font-style: italic; */
+  text-align: right;
   letter-spacing: 1px;
 }
 .pcol4 > ul {

@@ -10,7 +10,7 @@ function Contact() {
           <div className="contact__box">
             <div className="contact__meta">
               <h1 className="hire__text">Contact Me.</h1>
-              <p className="hire__text white">Connect with me </p>
+
               <p className="hire__text white">
                 <i class="fa fa-phone fa-2x" aria-hidden="true"></i>
 

@@ -131,41 +131,6 @@ function Home() {
             </div>
           ) : null}
         </div>
-        <div className="lRfdj">
-          <div className="bwSYJA">
-            <a
-              href="https://github.com/Sk-Bhardwaj24"
-              target="_blank"
-              rel="noreferrer"
-            >
-              {" "}
-              <i class="fab fa-github git"></i>
-            </a>
-            <a
-              href="www.linkedin.com/in/saurabh-kumar-bhardwaj"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i class="fa-brands fa-linkedin git"></i>
-            </a>
-            <a
-              href="https://twitter.com/Saurabh64461803"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i class="fa-brands fa-twitter-square git"></i>
-            </a>
-            <a
-              href="https://www.instagram.com/s.k_bhardwaj24"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i class="fa-brands fa-instagram-square git"></i>
-            </a>
-          </div>
-          <div className="kyvWZW"></div>
-          <div></div>
-        </div>
 
         {/* HOME CONTENT */}
         <div className="container">
