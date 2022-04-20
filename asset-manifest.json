@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Saurabh-Kumar-Bhardwaj/static/css/main.8388f066.css",
-    "main.js": "/Saurabh-Kumar-Bhardwaj/static/js/main.3499c649.js",
+    "main.js": "/Saurabh-Kumar-Bhardwaj/static/js/main.bb68c111.js",
     "static/js/787.b9ec5bb0.chunk.js": "/Saurabh-Kumar-Bhardwaj/static/js/787.b9ec5bb0.chunk.js",
     "static/media/developer.gif": "/Saurabh-Kumar-Bhardwaj/static/media/developer.bf5ac7c905321603edac.gif",
     "static/media/portfolio-1.png": "/Saurabh-Kumar-Bhardwaj/static/media/portfolio-1.58237409c9b0b13887aa.png",
@@ -17,11 +17,11 @@
     "static/media/quater-spin.svg": "/Saurabh-Kumar-Bhardwaj/static/media/quater-spin.61acd759e4f6e5dfab55b16bf11c1812.svg",
     "index.html": "/Saurabh-Kumar-Bhardwaj/index.html",
     "main.8388f066.css.map": "/Saurabh-Kumar-Bhardwaj/static/css/main.8388f066.css.map",
-    "main.3499c649.js.map": "/Saurabh-Kumar-Bhardwaj/static/js/main.3499c649.js.map",
+    "main.bb68c111.js.map": "/Saurabh-Kumar-Bhardwaj/static/js/main.bb68c111.js.map",
     "787.b9ec5bb0.chunk.js.map": "/Saurabh-Kumar-Bhardwaj/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8388f066.css",
-    "static/js/main.3499c649.js"
+    "static/js/main.bb68c111.js"
   ]
 }
