@@ -27,7 +27,8 @@ function Footer() {
           <i class="fab fa-github git"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/saurabh-kumar-bhardwaj"
+          // href="https://www.linkedin.com/in/saurabh-kumar-bhardwaj"
+          href="https://www.linkedin.com/in/saurabh-kumar-bhardwaj/"
           target="_blank"
           rel="noreferrer"
         >
