@@ -6,6 +6,9 @@ import JAVACRIPTLOGO from "./img/JSLOGO.png";
 import REACTLOGO from "./img/REACTLOGO.png";
 import REDUXLOGO from "./img/REDUXLOG.png";
 import CLOGO from "./img/CLOGO.png";
+import Mongo from "./img/mongo.png";
+import Node from "./img/nodeicon.png";
+import Express from "./img/Express.png";
 
 function Service() {
   return (
@@ -13,9 +16,6 @@ function Service() {
       <div className="service component__space" id="Services">
         <div className="heading">
           <h1 className="heading">Skills and Tools</h1>
-          {/* <p className="heading p__color">
-            There are many variations of passages of Lorem Ipsum available,
-          </p> */}
         </div>
 
         <div className="container">
@@ -68,6 +68,32 @@ function Service() {
                 </div>
               </div>
             </div>
+            {/* ****************** */}
+            <div className="col__3">
+              <div className="service__box pointer">
+                <div className="icon">
+                  <img src={Mongo} alt="" />
+                  <p>mongoDB</p>
+                </div>
+              </div>
+            </div>
+            <div className="col__3">
+              <div className="service__box pointer">
+                <div className="icon">
+                  <img src={Express} alt="" />
+                  <p>Express js</p>
+                </div>
+              </div>
+            </div>
+            <div className="col__3">
+              <div className="service__box pointer">
+                <div className="icon">
+                  <img src={Node} alt="" />
+                  <p>Node.js</p>
+                </div>
+              </div>
+            </div>
+            {/* ****************** */}
           </div>
         </div>
       </div>

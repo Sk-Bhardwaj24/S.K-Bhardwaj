@@ -27,7 +27,7 @@ function About() {
               </p>
               <p className="about__text p__color">
                 Fast Forwarding to today, I built a number of web applications
-                and 3 major projects. Learned a great deal about teamwork,
+                and 2 major projects. Learned a great deal about teamwork,
                 leadership, and communication. After months of rigorous
                 training, here I am looking for an opportunity as a full stack
                 web developer.

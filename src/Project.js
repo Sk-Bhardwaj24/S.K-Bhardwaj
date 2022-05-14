@@ -12,10 +12,10 @@ function Project() {
     <div className="project component__space" id="Portfolio">
       <div className="heading">
         <h1 className="heading">My Latest Project</h1>
-        <p className="heading p__color">
+        {/* <p className="heading p__color">
           Right now working on real world Todo-app & hope it will come very
           soon.
-        </p>
+        </p> */}
       </div>
       {/* ******************************8 */}
       <div className="conatiner">
@@ -73,6 +73,11 @@ function Project() {
               <li>HTML</li>
               <li>CSS</li>
               <li>JavaScript</li>
+            </ul>
+            <ul>
+              <li>MongoDB</li>
+              <li>Express</li>
+              <li>Node.js</li>
             </ul>
             <div className="prl">
               <a
