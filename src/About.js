@@ -35,7 +35,7 @@ function About() {
 
               <div className="about__button d__flexa align__items__center">
                 <a
-                  href="https://drive.google.com/file/d/1rveGN7E5PpAMtiKqnQONiOOhAkf_kI_r/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1BT8xw8BV1gv6GYtRfLfI6oLhm_bTDX_p/view?usp=sharing"
                   download
                   target="_blank"
                   rel="noreferrer"
